@@ -1,5 +1,5 @@
 {
-  "name": "falcor-router",
+  "name": "@mixgenius/falcor-router",
   "version": "0.4.3",
   "description": "A router DataSource constructor for falcor that allows you to model all your cloud data sources as a single JSON resource.",
   "main": "src/Router.js",
